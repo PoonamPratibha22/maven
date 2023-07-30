@@ -529,3 +529,348 @@ git remote add origin1 https://github.com/PoonamPratibha22/myrepo.git
 git remote -v
 git push origin1 master
 git push --help
+pwd
+git status
+clear
+ls
+clear
+mkdir myspace1
+git init
+clear
+ls
+clear
+cd myworkspace
+clear
+cd newfolder
+git init
+git status
+clear
+touch files1
+rm files1
+clear
+touch file1
+git add .
+git commit -m"hii"
+git status
+git log --oneline
+vi file1
+git status
+pwd
+ls
+cd myspace
+cd ..
+mkdir newfolder
+cd newfolder
+touch file1
+git branch
+ls
+git branch
+git add .
+git init
+ls
+git branch
+clear
+ls
+git add .
+git commit -m"hello"
+clear
+git branch
+git checkout newfolder
+clear
+git branch
+touch myfile.log myfile.pdf
+vi.gitignore
+vi .gitignore
+git status
+git checkout dev
+clear
+git status
+git branch
+cd ..
+clear
+mkdir mywork
+git init
+touch file1
+git add .
+git commit -m"hii"
+touch myfiles.log myfile.pdf
+vi .gitignore
+git status
+git checkout master
+git checkout dev
+clear
+pwd
+ls
+mkdir myfile
+ls
+mv myfile mywork1
+clear
+touch file1
+cat file1
+ls
+cd..
+clear
+pwd
+ls
+cd mywork1/
+ls
+touch file1
+cat > file1
+cat < file1
+cat >> file1
+vi
+ls
+rm -rf folder1  folder2
+clear
+ls
+mkdir merge
+cd merge
+git init
+git status
+touch file1
+git add .
+git commit -m"added"
+git branch
+git branch dev
+ls
+rm -rf myspace1 mywork1 myspace mywork newfolder dir1 Dir2 dir2
+clear
+ls
+rm download-80.cgi  file1  file2  file3  myfile.pdf  myfiles.log
+clear
+ls
+rm download-80.cgi
+ls
+mkdir
+clear
+mkdir folder1 folder2
+  
+ls
+cd folder1
+git log --oneline
+ls
+clear
+ls
+rm -rf merge
+pwd
+mkdir folder folder1
+cd folder
+myfiles.txt myfiles1.txt myfiles2.pdf
+cd ..
+pwd
+ls
+mkdir reset
+cd reset
+touch file1 file2 file3
+rm file1 file2 file3
+ls
+ls -a
+clear
+touch file1
+git add .
+git commit -m "hii"
+git log --oneline
+touch file2
+git add .
+git commit -m "bye"
+git log --oneline
+touch file3
+git add .
+git commit -m "added"
+git status
+clear
+ls
+git log --oneline
+clear
+git log --oneline
+git reset --mixed f00edfe
+git log --oneline
+git status
+git log --oneline
+git reset --mixed 0b45f51
+git log --oneline
+git init
+clear
+cd..
+cd ..
+clear
+mkdir reset1
+cd reset1
+git init
+ls -a
+touch file1
+git add .
+git commit -m "hii"
+git log --oneline
+touch file2
+git add .
+git commit -m "bye"
+git log --oneline
+touch file3
+git add .
+git commit -m "added"
+git log --oneline
+git ls-files
+git reset --mixed 8950414
+git log --oneline
+git reset --mixed fe55876
+git log --oneline
+git status
+
+git commit -m "bye"
+git log --oneline
+git add file3
+git commit -m "added"
+git log --oneline
+git status
+touch file4
+git add .
+git commit -m "added"
+git log --oneline
+git reset --mixed f708cc1
+git log --oneline
+git reset --soft 2caf2d1
+git log --oneline
+git status
+git reset --hard fe55876
+git log --oneline
+git status
+ls
+cd
+clear
+ls
+cd folder
+file1.txt
+clear
+mkdir workspace
+cd workspace
+ls
+git init
+ls -a
+cd ..
+ls
+.github
+mkdir workflow
+cd workflow
+git init
+vi file.yaml
+git add.
+git add .
+clear
+cd ..
+cd workspace
+ls -a
+git status
+clear
+ls -a
+mkdir .github
+cd .github
+mkdir .workflow
+ls
+ls -a
+rm .worflow
+rm .workflow
+clear
+ls -la
+rm -rf .workflow
+clear
+ls -la
+mkdir workflow
+cd workflow
+pwd
+touch file1.yml
+vi
+ls -la
+clear
+pwd
+ls
+cd workspace
+ls
+ls -a
+cd .github
+ls -a
+cd workflow
+ls
+pwd
+vi file1.yml
+cd ../..
+pwd
+git add .
+git commit -m "added file"
+git status
+git remote add origin git@github.com:PoonamPratibha22/yaml-repo.git
+git remote -v 
+git push origin master
+git remote add origin git@github.com:PoonamPratibha22/yaml-repo.git
+ls
+rm -rf folder  folder1  reset  reset1  workflow  workspace
+ls
+clear
+mkdir workspace
+cd ..
+ls
+clear
+mkdir myworkspace
+cd myworkspace
+git init
+git status
+mvn --version
+sudo yum install java-1.8.0 -y
+clear
+ls
+clear
+java --version
+clear
+java --version
+java -version
+pwd
+java -version
+maven --version
+sudo yum install maven -y
+maven --version
+maven -version
+mvn --version
+ls
+ls -la
+cd workspace/
+ls
+pwd
+usr/share/tomcat
+clear
+ls
+sudo vi /usr/share/tomcat/webapps/manager/META-INF/context.xml
+sudo systemctl status tomcat
+sudo vi /usr/share/tomcat/webapps/manager/META-INF/context.xml
+sudo systemctl status tomcat
+sudo vi /usr/share/tomcat/webapps/manager/META-INF/context.xml
+cd /usr/share/tomcat
+ls
+cd webapps/
+ls
+ls -a
+cd ~
+sudo systemctl status tomcat
+mvn -version
+java --version
+java -version
+clear
+sudo systemctl status tomcat
+ls
+yum install tomcat tomcat-webapps tomcat-admin-webapps tomcat-docs-webapp
+sudo yum install tomcat tomcat-webapps tomcat-admin-webapps tomcat-docs-webapp
+sudo systemctl status tomcat
+usr/share/tomcat
+/usr/share/tomcat
+sudo vi /usr/share/tomcat/webapps/manager/META-INF/context.xml
+sudo vi /usr/share/tomcat/conf/tomcat-users.xml
+cd /usr/share/tomcat/webapps/manager/WEB-INF 
+ls
+sudo vi web.xml
+sudo systemctl status tomcat
+ls
+sudo yum tomcat tomcat-webapps tomcat-admin-tomcat-docs-webapps
+sudo yum install tomcat tomcat-webapps tomcat-admin-tomcat-docs-webapps
+sudo systemctl status tomcat
+sudo systemctl start tomcat
+ls
+yes

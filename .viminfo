@@ -12,7 +12,13 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1687141214,,"wq!"
+|2,0,1690714644,,"wq!"
+:!
+|2,0,1687686552,,"!"
+:.!
+|2,0,1687686456,,".!"
+:q
+|2,0,1687686350,,"q"
 :q!
 |2,0,1685861150,,"q!"
 
@@ -25,232 +31,268 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	4run
+|3,1,36,0,1,0,1687686563,"4run"
 
 # File marks:
-'0  3  0  ~/newfolder/.gitignore
-|4,48,3,0,1687141214,"~/newfolder/.gitignore"
-'1  2  0  ~/workspace1/.git/COMMIT_EDITMSG
-|4,49,2,0,1686973675,"~/workspace1/.git/COMMIT_EDITMSG"
-'2  4  0  ~/workspace1/.gitignore
-|4,50,4,0,1686973093,"~/workspace1/.gitignore"
-'3  2  4  ~/workspace/.gitignore
-|4,51,2,4,1686968879,"~/workspace/.gitignore"
-'4  4  0  ~/workspace/.gitignore
-|4,52,4,0,1686968680,"~/workspace/.gitignore"
-'5  3  0  ~/workspace/.gitignore
-|4,53,3,0,1686968680,"~/workspace/.gitignore"
-'6  4  0  ~/workspace/.gitignore
-|4,54,4,0,1686968473,"~/workspace/.gitignore"
-'7  3  0  ~/workspace/.gitignore
-|4,55,3,0,1686968473,"~/workspace/.gitignore"
-'8  4  0  ~/workspace/.gitignore
-|4,56,4,0,1686968338,"~/workspace/.gitignore"
+'0  15  0  ~/myworkspace/.git/COMMIT_EDITMSG
+|4,48,15,0,1690714644,"~/myworkspace/.git/COMMIT_EDITMSG"
+'1  8  0  ~/workspace/.github/workflow/file1.yml
+|4,49,8,0,1687687015,"~/workspace/.github/workflow/file1.yml"
+'2  7  24  ~/workflow/file.yaml
+|4,50,7,24,1687684808,"~/workflow/file.yaml"
+'3  1  0  ~/newfolder/file1
+|4,51,1,0,1687144518,"~/newfolder/file1"
+'4  3  0  ~/.gitignore
+|4,52,3,0,1687141969,"~/.gitignore"
+'5  3  0  ~/newfolder/.gitignore
+|4,53,3,0,1687141214,"~/newfolder/.gitignore"
+'6  2  0  ~/workspace1/.git/COMMIT_EDITMSG
+|4,54,2,0,1686973675,"~/workspace1/.git/COMMIT_EDITMSG"
+'7  4  0  ~/workspace1/.gitignore
+|4,55,4,0,1686973093,"~/workspace1/.gitignore"
+'8  2  4  ~/workspace/.gitignore
+|4,56,2,4,1686968879,"~/workspace/.gitignore"
 '9  4  0  ~/workspace/.gitignore
-|4,57,4,0,1686968338,"~/workspace/.gitignore"
+|4,57,4,0,1686968680,"~/workspace/.gitignore"
 
 # Jumplist (newest first):
--'  3  0  ~/newfolder/.gitignore
-|4,39,3,0,1687141214,"~/newfolder/.gitignore"
--'  1  0  ~/newfolder/.gitignore
-|4,39,1,0,1687141144,"~/newfolder/.gitignore"
--'  2  0  ~/workspace1/.git/COMMIT_EDITMSG
-|4,39,2,0,1686973675,"~/workspace1/.git/COMMIT_EDITMSG"
--'  2  0  ~/workspace1/.git/COMMIT_EDITMSG
-|4,39,2,0,1686973675,"~/workspace1/.git/COMMIT_EDITMSG"
--'  1  0  ~/workspace1/.git/COMMIT_EDITMSG
-|4,39,1,0,1686973648,"~/workspace1/.git/COMMIT_EDITMSG"
--'  1  0  ~/workspace1/.git/COMMIT_EDITMSG
-|4,39,1,0,1686973648,"~/workspace1/.git/COMMIT_EDITMSG"
--'  4  0  ~/workspace1/.gitignore
-|4,39,4,0,1686973093,"~/workspace1/.gitignore"
--'  4  0  ~/workspace1/.gitignore
-|4,39,4,0,1686973093,"~/workspace1/.gitignore"
--'  4  0  ~/workspace1/.gitignore
-|4,39,4,0,1686973093,"~/workspace1/.gitignore"
--'  4  0  ~/workspace1/.gitignore
-|4,39,4,0,1686973093,"~/workspace1/.gitignore"
--'  1  0  ~/workspace1/.gitignore
-|4,39,1,0,1686973072,"~/workspace1/.gitignore"
--'  1  0  ~/workspace1/.gitignore
-|4,39,1,0,1686973072,"~/workspace1/.gitignore"
--'  1  0  ~/workspace1/.gitignore
-|4,39,1,0,1686973072,"~/workspace1/.gitignore"
--'  1  0  ~/workspace1/.gitignore
-|4,39,1,0,1686973072,"~/workspace1/.gitignore"
--'  2  4  ~/workspace/.gitignore
-|4,39,2,4,1686968879,"~/workspace/.gitignore"
--'  2  4  ~/workspace/.gitignore
-|4,39,2,4,1686968879,"~/workspace/.gitignore"
--'  2  4  ~/workspace/.gitignore
-|4,39,2,4,1686968879,"~/workspace/.gitignore"
--'  2  4  ~/workspace/.gitignore
-|4,39,2,4,1686968879,"~/workspace/.gitignore"
--'  2  4  ~/workspace/.gitignore
-|4,39,2,4,1686968879,"~/workspace/.gitignore"
--'  2  4  ~/workspace/.gitignore
-|4,39,2,4,1686968879,"~/workspace/.gitignore"
--'  2  4  ~/workspace/.gitignore
-|4,39,2,4,1686968879,"~/workspace/.gitignore"
--'  2  4  ~/workspace/.gitignore
-|4,39,2,4,1686968879,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686968852,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686968852,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686968852,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686968852,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686968852,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686968852,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686968852,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686968852,"~/workspace/.gitignore"
--'  4  0  ~/workspace/.gitignore
-|4,39,4,0,1686968680,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968680,"~/workspace/.gitignore"
--'  4  0  ~/workspace/.gitignore
-|4,39,4,0,1686968680,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968680,"~/workspace/.gitignore"
--'  4  0  ~/workspace/.gitignore
-|4,39,4,0,1686968680,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968680,"~/workspace/.gitignore"
--'  4  0  ~/workspace/.gitignore
-|4,39,4,0,1686968680,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968680,"~/workspace/.gitignore"
--'  4  0  ~/workspace/.gitignore
-|4,39,4,0,1686968680,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968680,"~/workspace/.gitignore"
--'  4  0  ~/workspace/.gitignore
-|4,39,4,0,1686968680,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968680,"~/workspace/.gitignore"
--'  4  0  ~/workspace/.gitignore
-|4,39,4,0,1686968680,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968680,"~/workspace/.gitignore"
--'  4  0  ~/workspace/.gitignore
-|4,39,4,0,1686968680,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968680,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968473,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968473,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968473,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968473,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968473,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968473,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968473,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968473,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968338,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968338,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968338,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968338,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968338,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968338,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968338,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968338,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968030,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968030,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968030,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968030,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968030,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968030,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968030,"~/workspace/.gitignore"
--'  3  0  ~/workspace/.gitignore
-|4,39,3,0,1686968030,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
--'  1  0  ~/workspace/.gitignore
-|4,39,1,0,1686967947,"~/workspace/.gitignore"
+-'  15  0  ~/myworkspace/.git/COMMIT_EDITMSG
+|4,39,15,0,1690714644,"~/myworkspace/.git/COMMIT_EDITMSG"
+-'  1  0  ~/myworkspace/.git/COMMIT_EDITMSG
+|4,39,1,0,1690714556,"~/myworkspace/.git/COMMIT_EDITMSG"
+-'  8  0  ~/workspace/.github/workflow/file1.yml
+|4,39,8,0,1687687015,"~/workspace/.github/workflow/file1.yml"
+-'  8  0  ~/workspace/.github/workflow/file1.yml
+|4,39,8,0,1687687015,"~/workspace/.github/workflow/file1.yml"
+-'  1  0  ~/workspace/.github/workflow/file1.yml
+|4,39,1,0,1687686998,"~/workspace/.github/workflow/file1.yml"
+-'  1  0  ~/workspace/.github/workflow/file1.yml
+|4,39,1,0,1687686998,"~/workspace/.github/workflow/file1.yml"
+-'  7  24  ~/workflow/file.yaml
+|4,39,7,24,1687684808,"~/workflow/file.yaml"
+-'  7  24  ~/workflow/file.yaml
+|4,39,7,24,1687684808,"~/workflow/file.yaml"
+-'  7  24  ~/workflow/file.yaml
+|4,39,7,24,1687684808,"~/workflow/file.yaml"
+-'  7  24  ~/workflow/file.yaml
+|4,39,7,24,1687684808,"~/workflow/file.yaml"
+-'  7  24  ~/workflow/file.yaml
+|4,39,7,24,1687684808,"~/workflow/file.yaml"
+-'  7  24  ~/workflow/file.yaml
+|4,39,7,24,1687684808,"~/workflow/file.yaml"
+-'  7  24  ~/workflow/file.yaml
+|4,39,7,24,1687684808,"~/workflow/file.yaml"
+-'  7  24  ~/workflow/file.yaml
+|4,39,7,24,1687684808,"~/workflow/file.yaml"
+-'  1  0  ~/workflow/file.yaml
+|4,39,1,0,1687684176,"~/workflow/file.yaml"
+-'  1  0  ~/workflow/file.yaml
+|4,39,1,0,1687684176,"~/workflow/file.yaml"
+-'  1  0  ~/workflow/file.yaml
+|4,39,1,0,1687684176,"~/workflow/file.yaml"
+-'  1  0  ~/workflow/file.yaml
+|4,39,1,0,1687684176,"~/workflow/file.yaml"
+-'  1  0  ~/workflow/file.yaml
+|4,39,1,0,1687684176,"~/workflow/file.yaml"
+-'  1  0  ~/workflow/file.yaml
+|4,39,1,0,1687684176,"~/workflow/file.yaml"
+-'  1  0  ~/workflow/file.yaml
+|4,39,1,0,1687684176,"~/workflow/file.yaml"
+-'  1  0  ~/workflow/file.yaml
+|4,39,1,0,1687684176,"~/workflow/file.yaml"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  1  0  ~/newfolder/file1
+|4,39,1,0,1687144518,"~/newfolder/file1"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1687141969,"~/.gitignore"
 
 # History of marks within files (newest to oldest):
+
+> ~/myworkspace/.git/COMMIT_EDITMSG
+	*	1690714636	0
+	"	15	0
+	^	15	0
+	.	2	0
+	+	2	0
+
+> ~/workspace/.github/workflow/file1.yml
+	*	1687687011	0
+	"	8	0
+	^	8	0
+	.	7	0
+	+	7	0
+
+> ~/workflow/file.yaml
+	*	1687684796	0
+	"	7	24
+	^	7	25
+	.	7	26
+	+	6	16
+	+	7	26
+
+> ~/newfolder/file1
+	*	1687144506	0
+	"	1	0
+
+> ~/.gitignore
+	*	1687141963	0
+	"	3	0
+	^	3	0
+	.	3	0
+	+	3	0
 
 > ~/newfolder/.gitignore
 	*	1687141208	0
